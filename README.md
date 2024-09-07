@@ -1,5 +1,5 @@
-# Juego BlackJack 
-## Cambios Realizados version 1.2 
+# Juego BlackJack
+## Cambios realizados versión 1.2
 
 Se realizaron las siguientes modificaciones en el código para mejorar la funcionalidad del juego:
 
