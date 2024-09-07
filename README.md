@@ -1,7 +1,7 @@
 # Juego BlackJack
 ## Cambios realizados versión 1.2
 
-Se realizaron las siguientes modificaciones en el código para mejorar la funcionalidad del juego:
+Se realizaron las siguientes modificaciones en el código para mejorar la funcionalidad del juego en la clase JuegoDeCartas:
 
 1. **Número de Jugadores a elección del usuario**  
    Se añadió la capacidad para que el usuario ingrese el número de jugadores antes de iniciar el juego. Anteriormente, el número de jugadores era fijo en el main.  
